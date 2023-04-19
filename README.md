@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Hi there👋 ,  
+## About Me
+Hey, I'm Janya Thomas AKA NYaC0des
+| Rank | THINGS-TO-RANK |
+|-----:|---------------|
+|     1| Anime               |
+|     2|  Coding             |
+|     3|    Coding           |
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
